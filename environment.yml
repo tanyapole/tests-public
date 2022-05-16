@@ -4,11 +4,5 @@ channels:
   - defaults
 dependencies:
   - python=3.7
-  - pytorch=1.11.0
-  - scipy=1.7.3
-  - numpy[version='1.21.6.*,1.21.6.*']
-  - neurokit2=0.1.5
-  - pillow=7.2.0
-  - opencv=4.1.2
-  - pytest
+  - pytest=7.1.2
 prefix: /mnt/tank/scratch/tpolevaya/miniconda3/envs/projtest
