@@ -1,0 +1,75 @@
+title: "Fedot"
+date: 2020-05-28
+theme: jekyll-theme-minimal
+markdown: kramdown
+description: > # this means to ignore newlines until "baseurl:"
+  <div class='menu-group'>
+    <div class='main-menu-item'><a href="/FEDOT.Docs/autolearning/main">Automated learning</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/autolearning/automl">Modern AutoML solutions</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/autolearning/composite">Composite models</a></div>
+  </div>
+  <div class='menu-group'>
+    <div class='main-menu-item'><a href="/FEDOT.Docs/fedot/main">Fedot Framework</a></div>
+    <div class='menu-item'><a href="https://fedot.readthedocs.io/en/latest/">Fedot Documentation</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/components">Main components</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/algorithm-chains">Composition algorithm</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/alg-min-chain">Chain simplification</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/alg-data-models">Data preprocessing</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/alg-tuning">Models tuning</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/fedot/tutorials">Tutorials</a></div>
+  </div>
+  <div class='menu-group'>
+    <div class='main-menu-item'><a href="/FEDOT.Docs/real_cases/main">Real-world cases</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/credit-scoring">Credit scoring</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/metocean-forecasting">Metocean Forecasting</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/oil-chemistry">Oil chemistry</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/robotics">Robotics</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/economics">Economics</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/real_cases/benchmarks">Benchmarks</a></div>
+  </div>
+   <div class='menu-group'>
+    <div class='main-menu-item'><a href="/FEDOT.Docs/utilities/main">Utilities</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/utilities/synthetic-generator">Synthetic datasets</a></div>
+   </div>
+  <div class='menu-group'>
+    <div class='main-menu-item'><a href="/FEDOT.Docs/contribution/main">Contribution</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/contribution/how-to-fedot-based">How to use and adopt</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/contribution/how-to-embed">How to extend</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/contribution/guidelines">Repository guidelines</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/contribution/citation">How to cite</a></div>
+    <div class='menu-item'><a href="/FEDOT.Docs/contribution/integration">Integration</a></div>
+  </div>
+  <div class='menu-group'>
+      <div class='main-menu-item'><a href="/FEDOT.Docs/FAQ">FAQ</a></div>
+   </div>
+  <div class='menu-group'>
+     <div class='main-menu-item'><a href="/FEDOT.Docs/about-us">About us</a></div>
+  </div>
+  <div class='menu-group'>
+      <div class='main-menu-item'><a href="/FEDOT.Docs?rus=1">Русская версия</a></div>
+  </div>
+  <div class='menu-group russian'>
+      <div class='main-menu-item'><a href="/FEDOT.Docs/rus/concepts/main?rus=1">Основные понятия</a></div>
+      <div class='menu-item'><a href="/FEDOT.Docs/rus/concepts/automl?rus=1">Автоматическое МО</a></div>
+      <div class='menu-item'><a href="/FEDOT.Docs/rus/concepts/fedot?rus=1">Фреймворк Федот</a></div>
+      <div class='menu-item'><a href="/FEDOT.Docs/rus/concepts/composite?rus=1">Идентификация композитных моделей</a></div>
+  </div>
+  <div class='menu-group russian'>
+        <div class='main-menu-item'><a href="/FEDOT.Docs/rus/real_cases/main?rus=1">Прикладные примеры</a></div>
+        <div class='menu-item'><a href="/FEDOT.Docs/rus/real_cases/scoring?rus=1">Кредитный скоринг</a></div>
+        <div class='menu-item'><a href="/FEDOT.Docs/rus/real_cases/metocean-forecasting?rus=1">Гидромет. прогнозирование</a></div>
+    </div>
+  <div class='menu-group russian'>
+         <div class='main-menu-item'><a href="/FEDOT.Docs/rus/contribution/main?rus=1">Применение и улучшение</a></div>
+         <div class='menu-item'><a href="/FEDOT.Docs/rus/contribution/tutorials?rus=1">Руководство разработчика</a></div>
+         <div class='menu-item'><a href="/FEDOT.Docs/rus/contribution/guidlines?rus=1">Руководство по работе с репозиторием</a></div>
+         <div class='menu-item'><a href="/FEDOT.Docs/rus/contribution/citation?rus=1">Как нас процитировать</a></div>
+    </div>
+  <div class='menu-group russian'>
+       <div class='main-menu-item'><a href="/FEDOT.Docs">English version</a></div>
+  </div>
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
